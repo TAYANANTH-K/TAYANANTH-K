@@ -12,15 +12,13 @@
 ### 🔗 My Profiles
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sukant-c-b6bba4317/" target="_blank">
+  <a href="https://github.com/TAYANANTH-K" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/sukant_1947/" target="_blank">
+  <a href="https://www.linkedin.com/in/tayananth-k-a72316253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sukant_2005/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
-  </a>
+  
 </p>
 
 ---
@@ -28,7 +26,7 @@
 ### 🌐 My Portfolio
 
 Check out my portfolio:  
-👉 [tayapersonalportfolio.vercel.app](https://tayapersonalportfolio.vercel.app)
+👉 [https://tayaportfolio.vercel.app/](https://tayaportfolio.vercel.app/)
 
 ---
 
